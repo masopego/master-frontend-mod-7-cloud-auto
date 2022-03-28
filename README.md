@@ -1,0 +1,1 @@
+# master-frontend-mod-7-cloud-auto
